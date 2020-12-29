@@ -2,13 +2,15 @@
 
 Hello All
 
-Team
+# Team
 1. Divya Bansal
 2. Shweta
 3. Naman Jain
 4. Piyush Kedia
 
 
-Domain - PHARMA
+# Domain 
+PHARMA
 
-Software - R and/or Python
+# Software 
+R and/or Python
