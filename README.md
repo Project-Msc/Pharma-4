@@ -19,7 +19,7 @@ PHARMA
 # Reference Published Works
 
 1. Conference Paper - Intelligent heart disease prediction system using data mining techniques.
-2. Clinical decision support system : Risk level prediction of heart disease using weighted fuzzy roles.
+2. Decision Support in Heart Disease Prediction System using Naive Bayes.
 3. Comprehensive Study of Heart Disease Diagnosis Using Data Mining and Soft Computing Techniques.
 4. Article - Artificial Neural Network as a Clinical decision Supporting tool to predict cardiovascular disease.
 
